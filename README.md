@@ -152,6 +152,22 @@ Cada carpeta del repositorio representa un laboratorio distinto:
 | 4 | Error al compilar el proyecto | Restaurar paquetes NuGet y revisar las referencias del proyecto. |
 
 ---
+## Imagenes
+Cadenas
+<img width="1115" height="211" alt="image" src="https://github.com/user-attachments/assets/49b890df-e62c-491f-9dfb-08741193d2b3" />
+
+Factorial
+<img width="1099" height="276" alt="image" src="https://github.com/user-attachments/assets/fb1d4268-9088-4f0c-9bd0-5ae17fdcd14b" />
+
+Consultas SQL
+<img width="689" height="265" alt="image" src="https://github.com/user-attachments/assets/38f9d031-0143-4ea5-a8f9-46d9ea310c73" />
+
+Metodos Sobrecargados
+<img width="560" height="249" alt="image" src="https://github.com/user-attachments/assets/01eb0e7c-13c1-4a05-91bb-2f08c6f47425" />
+
+Frecuencia
+<img width="1089" height="196" alt="image" src="https://github.com/user-attachments/assets/f1e1a35a-c341-4a54-abd3-0a090ab812c2" />
+
 
 ## Conclusiones
 
@@ -159,8 +175,3 @@ Cada carpeta del repositorio representa un laboratorio distinto:
 - Se comprendió el uso de C# para distintos ejercicios.
 - Se practicó la conexión con MySQL y la ejecución de consultas SQL.
 - Se reforzaron conceptos esenciales de programación, validación y manejo de datos.
-
----
-
-**Autor:** LeonelMendoza2309  
-**Fecha:** Octubre 2026
