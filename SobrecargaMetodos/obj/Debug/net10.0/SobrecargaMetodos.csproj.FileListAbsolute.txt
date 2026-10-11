@@ -1,0 +1,15 @@
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\SobrecargaMetodos.exe
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\SobrecargaMetodos.deps.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\SobrecargaMetodos.runtimeconfig.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\SobrecargaMetodos.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\SobrecargaMetodos.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\SobrecargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\SobrecargaMetodos.AssemblyInfoInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\SobrecargaMetodos.AssemblyInfo.cs
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\SobrecargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\SobrecargaMetodos.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\refint\SobrecargaMetodos.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\SobrecargaMetodos.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\SobrecargaMetodos.genruntimeconfig.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\ref\SobrecargaMetodos.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Sobrecar.A99ED20B.Up2Date
