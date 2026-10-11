@@ -1,0 +1,15 @@
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\Frecuencia.exe
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\Frecuencia.deps.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\Frecuencia.runtimeconfig.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\Frecuencia.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\bin\Debug\net10.0\Frecuencia.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Frecuencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Frecuencia.AssemblyInfoInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Frecuencia.AssemblyInfo.cs
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Frecuencia.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Frecuencia.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\refint\Frecuencia.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Frecuencia.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Frecuencia.genruntimeconfig.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\ref\Frecuencia.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Frecuencia\obj\Debug\net10.0\Frecuencia.csproj.Up2Date
