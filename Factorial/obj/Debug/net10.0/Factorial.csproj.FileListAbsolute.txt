@@ -1,0 +1,15 @@
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\ref\Factorial.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Factorial\obj\Debug\net10.0\Factorial.csproj.Up2Date
