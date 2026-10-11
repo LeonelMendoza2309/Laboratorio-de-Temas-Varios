@@ -1,0 +1,15 @@
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\bin\Debug\net10.0\Cadenas.exe
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\bin\Debug\net10.0\Cadenas.deps.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\bin\Debug\net10.0\Cadenas.runtimeconfig.json
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\bin\Debug\net10.0\Cadenas.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\bin\Debug\net10.0\Cadenas.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\Cadenas.AssemblyInfoInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\Cadenas.AssemblyInfo.cs
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\Cadenas.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\refint\Cadenas.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\Cadenas.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\Cadenas.genruntimeconfig.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\ref\Cadenas.dll
+C:\Users\Leonel Mendoza\Documents\HPA3\Cadenas\obj\Debug\net10.0\Cadenas.csproj.Up2Date
